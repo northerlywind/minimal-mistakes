@@ -1,8 +1,8 @@
 # Site wide configuration
 
-title:            Site Title
+title:            Julie Lee
 locale:           en_US
-url:
+url:              http://www.synapticlee.co.uk
 
 
 # Jekyll configuration
